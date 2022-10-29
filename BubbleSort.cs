@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DSA
 {
-    internal class Program
+    internal class BubbleSort
     {
         static void Main(string[] args)
         {
